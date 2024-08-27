@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Escopo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee6511bbf1d1599aa8d628da4fde2f8806e7ac1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b29dfde230fcb32c931a2a2647361365b7ed2f64")]
 [assembly: System.Reflection.AssemblyProductAttribute("Escopo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Escopo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
