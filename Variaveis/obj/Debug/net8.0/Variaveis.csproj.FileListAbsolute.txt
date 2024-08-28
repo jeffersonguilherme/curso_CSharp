@@ -1,0 +1,5 @@
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Variaveis\obj\Debug\net8.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Variaveis\obj\Debug\net8.0\Variaveis.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Variaveis\obj\Debug\net8.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Variaveis\obj\Debug\net8.0\Variaveis.sourcelink.json

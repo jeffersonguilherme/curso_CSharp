@@ -10,7 +10,7 @@
            // const int idade_minima; // Correto inicia com ZERO
             const int idade_minima = 25; //Correto incia com 25
 
-            int internal = 25;
+            //int internal = 25;
 
 
         }

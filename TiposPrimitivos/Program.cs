@@ -22,8 +22,15 @@
 
             //var substitui o nome de um tipo, sera o primeiro tipo valor atribuido
             var idadeVar = 25;
-            IEnumerable<MeuTipoComplexo> aluno = new IEnumerable<MeuTipoComplexo>();
-            var aluno = new IEnumerable<MeuTipoComplexo>();
+           // IEnumerable<MeuTipoComplexo> aluno = new IEnumerable<MeuTipoComplexo>();
+           // var aluno = new IEnumerable<MeuTipoComplexo>();
+
+           //OBJECT TIPO GENÉRICO QUE RECEBE QUALQUER VALOR OU OBJETO
+
+           object idadePai = 25;
+           object nome = "jefferson";
+           idadePai = "jef";
+           
         }
     }
 }
