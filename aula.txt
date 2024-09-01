@@ -2,3 +2,4 @@ aula 05 - variavel - 25/08/24
 aula 10 - System
 aula 18 - Object
 aula 20 - Alias
+aula 26 - Convertendo Tipos
