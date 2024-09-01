@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Escopo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Convertendo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc5a282aa1b49dddbd4769466b567a5359509fb")]
-[assembly: System.Reflection.AssemblyProductAttribute("Escopo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Escopo")]
+[assembly: System.Reflection.AssemblyProductAttribute("Convertendo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Convertendo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
