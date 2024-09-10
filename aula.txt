@@ -4,3 +4,5 @@ aula 18 - Object
 aula 20 - Alias
 aula 26 - Convertendo Tipos
 aula 33 - Utilizando IF
+aula 38 - Funções e metodos
+aula 39 - Funções e metodos Prática

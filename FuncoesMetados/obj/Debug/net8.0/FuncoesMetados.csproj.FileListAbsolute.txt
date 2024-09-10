@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\FuncoesMetados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\FuncoesMetados.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\FuncoesMetados.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\FuncoesMetados.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\FuncoesMetados.sourcelink.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\FuncoesMetados.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\refint\FuncoesMetados.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\FuncoesMetados.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\bin\Debug\net8.0\FuncoesMetados.exe
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\bin\Debug\net8.0\FuncoesMetados.deps.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\bin\Debug\net8.0\FuncoesMetados.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\bin\Debug\net8.0\FuncoesMetados.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\bin\Debug\net8.0\FuncoesMetados.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\FuncoesMetados.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\FuncoesMetados\obj\Debug\net8.0\ref\FuncoesMetados.dll
