@@ -1,0 +1,15 @@
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\bin\Debug\net8.0\Estruturas.exe
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\bin\Debug\net8.0\Estruturas.deps.json
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\bin\Debug\net8.0\Estruturas.runtimeconfig.json
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\bin\Debug\net8.0\Estruturas.dll
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\bin\Debug\net8.0\Estruturas.pdb
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\Estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\Estruturas.AssemblyInfoInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\Estruturas.AssemblyInfo.cs
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\Estruturas.sourcelink.json
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\Estruturas.dll
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\refint\Estruturas.dll
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\Estruturas.pdb
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\Estruturas.genruntimeconfig.cache
+C:\Users\jefferson.silva\Documents\GitHub\curso_CSharp\Estruturas\obj\Debug\net8.0\ref\Estruturas.dll

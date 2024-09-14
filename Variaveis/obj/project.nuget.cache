@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "na8P1z3cMJk=",
+=======
+  "dgSpecHash": "yRxKvbsFJEY=",
+>>>>>>> 184238a8de5e2955512e1fb143145b60104fd36e
   "success": true,
-  "projectFilePath": "C:\\Users\\jeffe\\OneDrive\\Documentos\\GitHub\\curso_CSharp\\Variaveis\\Variaveis.csproj",
+  "projectFilePath": "C:\\Users\\jefferson.silva\\Documents\\GitHub\\curso_CSharp\\Variaveis\\Variaveis.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
