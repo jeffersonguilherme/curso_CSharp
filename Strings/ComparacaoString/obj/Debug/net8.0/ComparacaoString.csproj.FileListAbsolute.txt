@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\ComparacaoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\ComparacaoString.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\ComparacaoString.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\ComparacaoString.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\ComparacaoString.sourcelink.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\bin\Debug\net8.0\ComparacaoString.exe
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\bin\Debug\net8.0\ComparacaoString.deps.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\bin\Debug\net8.0\ComparacaoString.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\bin\Debug\net8.0\ComparacaoString.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\bin\Debug\net8.0\ComparacaoString.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\ComparacaoString.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\refint\ComparacaoString.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\ComparacaoString.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\ComparacaoString.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\ComparacaoString\obj\Debug\net8.0\ref\ComparacaoString.dll

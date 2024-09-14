@@ -8,3 +8,8 @@ aula 38 - Funções e metodos
 aula 39 - Funções e metodos Prática
 aula 41 - value types e referencai types Pratica
 aula 42 - Construtor
+
+--Modulo String
+
+aula 01 - Guids
+aula 05 - Equals
