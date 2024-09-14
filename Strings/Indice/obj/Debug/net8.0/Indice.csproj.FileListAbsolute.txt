@@ -1,0 +1,15 @@
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\bin\Debug\net8.0\Indice.exe
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\bin\Debug\net8.0\Indice.deps.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\bin\Debug\net8.0\Indice.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\bin\Debug\net8.0\Indice.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\bin\Debug\net8.0\Indice.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\Indice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\Indice.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\Indice.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\Indice.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\Indice.sourcelink.json
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\Indice.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\refint\Indice.dll
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\Indice.pdb
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\Indice.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Documentos\GitHub\curso_CSharp\Strings\Indice\obj\Debug\net8.0\ref\Indice.dll
